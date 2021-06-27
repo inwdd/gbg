@@ -1,0 +1,21 @@
+var circleee = {
+"type":"FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+
+"features":[
+{"type":"Feature","properties":{"nameid": "Name 1", "namenum": 1.000000,},"geometry":{"type":"Point","coordinates":[32.4755859375,14.00869637063467]}},
+{"type":"Feature","properties":{"nameid": "Name 2", "namenum": 5.000000,},"geometry":{"type":"Point","coordinates":[31.6845703125,8.320212289522944]}},
+{"type":"Feature","properties":{"nameid": "Name 3", "namenum": 11.000000,},"geometry":{"type":"Point","coordinates":[35.28808593749999,7.27529233637217]}},
+{"type":"Feature","properties":{},"geometry":{"type":"Point","coordinates":[35.4638671875,12.297068292853817]}},
+{"type":"Feature","properties":{},"geometry":{"type":"Point","coordinates":[41.9677734375,11.6522364041154]}},
+{"type":"Feature","properties":{},"geometry":{"type":"Point","coordinates":[43.154296875,12.08229583736359]}},
+{"type":"Feature","properties":{},"geometry":{"type":"Point","coordinates":[42.3193359375,11.26461221250444]}},
+{"type":"Feature","properties":{},"geometry":{"type":"Point","coordinates":[41.4404296875,12.039320557540572]}},
+{"type":"Feature","properties":{},"geometry":{"type":"Point","coordinates":[40.517578125,11.738302371436854]}},
+{"type":"Feature","properties":{},"geometry":{"type":"Point","coordinates":[42.4951171875,9.88227549342994]}},
+{"type":"Feature","properties":{},"geometry":{"type":"Point","coordinates":[43.2421875,10.012129557908155]}},
+{"type":"Feature","properties":{},"geometry":{"type":"Point","coordinates":[39.15527343749999,3.425691524418062]}},
+{"type":"Feature","properties":{},"geometry":{"type":"Point","coordinates":[40.25390625,-0.39550467153200675]}},
+{"type":"Feature","properties":{},"geometry":{"type":"Point","coordinates":[32.08007812499999,3.8204080831949407]}},
+{"type":"Feature","properties":{},"geometry":{"type":"Point","coordinates":[31.904296874999996,3.6449998008920375]}},
+{"type":"Feature","properties":{"nameid": "Name 4", "namenum": 15.000000,},"geometry":{"type":"Point","coordinates":[31.9482421875,2.855262784366583]}}]}

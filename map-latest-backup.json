@@ -1,0 +1,6383 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        
+
+
+ {
+            "type": "Feature",
+            "properties": {
+                "Name": "gadarief",
+                "type": "country",
+                "country": "sudan",
+                "icon": "MCIcon",
+                "tooltip_img": "lib/zgadarief.png",
+                "popup_img": "lib/zgadarief.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[35.388162, 14.044225]
+            }
+
+          },  
+
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "galabat",
+                "type": "country",
+                "country": "sudan",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalabat.png",
+                "Description": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.149322, 12.960314]
+            }
+
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "hamdayet",
+                "type": "country",
+                "country": "sudan",
+                "icon": "circleIcon",
+                "popup_img": "lib/zhamdayet.png",
+                "Description": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.413976, 15.455983]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "jodah",
+                "type": "country",
+                "country": "sudan",
+                "icon": "circleIcon",
+                "popup_img": "lib/zjodah.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[33.020113, 12.526098]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "whitenile",
+                "type": "country",
+                "country": "sudan",
+                "icon": "RCIcon",
+                "popup_img": "lib/zwhitenile.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.244053, 14.165762]
+            }
+        }, 
+
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "gadarief",
+                "type": "activity",
+                "activity": "Health",
+                "icon": "MCIcon",
+                "popup_img": "lib/zgadarief.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [35.388162, 14.044225]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "galabat",
+                "type": "activity",
+                "activity": "Health",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalabat.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.149322, 12.960314]
+            }
+        },
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "gadarief",
+                "type": "activity",
+                "activity": "WASH",
+                "icon": "MCIcon",
+                "popup_img": "lib/zgadarief.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[35.388162, 14.044225]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "galabat",
+                "type": "activity",
+                "activity": "WASH",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalabat.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.149322, 12.960314]
+            }
+        },
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "gadarief",
+                "type": "activity",
+                "activity": "GBV",
+                "icon": "MCIcon",
+                "popup_img": "lib/zgadarief.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[35.388162, 14.044225]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "galabat",
+                "type": "activity",
+                "activity": "GBV",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalabat.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.149322, 12.960314]
+            }
+        },
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "gadarief",
+                "type": "activity",
+                "activity": "RCCE",
+                "icon": "MCIcon",
+                "popup_img": "lib/zgadarief.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[35.388162, 14.044225]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "galabat",
+                "type": "activity",
+                "activity": "RCCE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalabat.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.149322, 12.960314]
+            }
+        },
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "gadarief",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "MCIcon",
+                "popup_img": "lib/zgadarief.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[35.388162, 14.044225]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "galabat",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalabat.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.149322, 12.960314]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "hamdayet",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zhamdayet.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.413976, 15.455983]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "jodah",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zjodah.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[33.020113, 12.526098]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "whitenile",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "RCIcon",
+                "popup_img": "lib/zwhitenile.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.244053, 14.165762]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "galabat",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalabat.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.149322, 12.960314]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "hamdayet",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "circleIcon",
+                "popup_img": "lib/zhamdayet.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.413976, 15.455983]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "jodah",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "circleIcon",
+                "popup_img": "lib/zjodah.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[33.020113, 12.526098]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "whitenile",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "RCIcon",
+                "popup_img": "lib/zwhitenile.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.244053, 14.165762]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "galabat",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalabat.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.149322, 12.960314]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "hamdayet",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zhamdayet.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.413976, 15.455983]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "jodah",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zjodah.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[33.020113, 12.526098]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "whitenile",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "RCIcon",
+                "popup_img": "lib/zwhitenile.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.244053, 14.165762]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "galabat",
+                "type": "partner",
+                "partner": "UNICEF",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalabat.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.149322, 12.960314]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "gadarief",
+                "type": "partner",
+                "partner": "IOM",
+                "icon": "MCIcon",
+                "popup_img": "lib/zgadarief.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[35.388162, 14.044225]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "galabat",
+                "type": "partner",
+                "partner": "IOM",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalabat.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.149322, 12.960314]
+            }
+        },
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "galabat",
+                "type": "partner",
+                "partner": "TMEA",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalabat.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.149322, 12.960314]
+            }
+        },
+
+
+  {
+            "type": "Feature",
+            "properties": {
+                "Name": "juba",
+                "type": "country",
+                "country": "southsudan",
+                "icon": "StarIcon",
+                "popup_img": "lib/zjuba.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[31.598537, 4.851911]
+            }
+
+          },  
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "maban",
+                "type": "country",
+                "country": "southsudan",
+                "icon": "RCIcon",
+                "popup_img": "lib/zmaban.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[33.040016, 10.053668]
+            }
+
+          },  
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "nadapal",
+                "type": "country",
+                "country": "southsudan",
+                "icon": "circleIcon",
+                "popup_img": "lib/znadapal.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.283834, 4.405186]
+            }
+
+          },  
+
+           {
+            "type": "Feature",
+            "properties": {
+                "Name": "nimule",
+                "type": "country",
+                "country": "southsudan",
+                "icon": "circleIcon",
+                "popup_img": "lib/znimule.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.068238, 3.586098]
+            }
+
+          },  
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "renk",
+                "type": "country",
+                "country": "southsudan",
+                "icon": "circleIcon",
+                "popup_img": "lib/zrenk.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.797374, 11.835407]
+            }
+
+          },  
+
+           {
+            "type": "Feature",
+            "properties": {
+                "Name": "maban",
+                "type": "activity",
+                "activity": "Health",
+                "icon": "RCIcon",
+                "popup_img": "lib/zmaban.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[33.040016, 10.053668]
+            }
+
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "maban",
+                "type": "activity",
+                "activity": "WASH",
+                "icon": "RCIcon",
+                "popup_img": "lib/zmaban.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[33.040016, 10.053668]
+            }
+
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "maban",
+                "type": "activity",
+                "activity": "GBV",
+                "icon": "RCIcon",
+                "popup_img": "lib/zmaban.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[33.040016, 10.053668]
+            }
+
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "maban",
+                "type": "activity",
+                "activity": "RCCE",
+                "icon": "RCIcon",
+                "popup_img": "lib/zmaban.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[33.040016, 10.053668]
+            }
+
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "maban",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "RCIcon",
+                "popup_img": "lib/zmaban.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[33.040016, 10.053668]
+            }
+
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "maban",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "RCIcon",
+                "popup_img": "lib/zmaban.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[33.040016, 10.053668]
+            }
+
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "maban",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "RCIcon",
+                "popup_img": "lib/zmaban.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[33.040016, 10.053668]
+            }
+
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "maban",
+                "type": "partner",
+                "partner": "UNICEF",
+                "icon": "RCIcon",
+                "popup_img": "lib/zmaban.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[33.040016, 10.053668]
+            }
+
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "nadapal",
+                "type": "country",
+                "country": "southsudan",
+                "icon": "circleIcon",
+                "popup_img": "lib/znadapal.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [34.283834, 4.405186]
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "nadapal",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "circleIcon",
+                "popup_img": "lib/znadapal.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [34.283834, 4.405186]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "nadapal",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "circleIcon",
+                "popup_img": "lib/znadapal.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [34.283834, 4.405186]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "nadapal",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/znadapal.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [34.283834, 4.405186]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "nimule",
+                "type": "country",
+                "country": "southsudan",
+                "icon": "circleIcon",
+                "popup_img": "lib/znimule.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.068238, 3.586098]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "nimule",
+                "type": "activity",
+                "activity": "Health",
+                "icon": "circleIcon",
+                "popup_img": "lib/znimule.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.068238, 3.586098]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "nimule",
+                "type": "activity",
+                "activity": "WASH",
+                "icon": "circleIcon",
+                "popup_img": "lib/znimule.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.068238, 3.586098]
+            }
+        }, 
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "nimule",
+                "type": "activity",
+                "activity": "GBV",
+                "icon": "circleIcon",
+                "popup_img": "lib/znimule.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.068238, 3.586098]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "nimule",
+                "type": "activity",
+                "activity": "RCCE",
+                "icon": "circleIcon",
+                "popup_img": "lib/znimule.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.068238, 3.586098]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "nimule",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "circleIcon",
+                "popup_img": "lib/znimule.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.068238, 3.586098]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "nimule",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "circleIcon",
+                "popup_img": "lib/znimule.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.068238, 3.586098]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "nimule",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/znimule.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.068238, 3.586098]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "nimule",
+                "type": "partner",
+                "partner": "IOM",
+                "icon": "circleIcon",
+                "popup_img": "lib/znimule.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.068238, 3.586098]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "nimule",
+                "type": "partner",
+                "partner": "TMEA",
+                "icon": "circleIcon",
+                "popup_img": "lib/znimule.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.068238, 3.586098]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "renk",
+                "type": "country",
+                "country": "southsudan",
+                "icon": "circleIcon",
+                "popup_img": "lib/zrenk.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.797374, 11.835407]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "renk",
+                "type": "activity",
+                "activity": "Health",
+                "icon": "circleIcon",
+                "popup_img": "lib/zrenk.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.797374, 11.835407]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "renk",
+                "type": "activity",
+                "activity": "WASH",
+                "icon": "circleIcon",
+                "popup_img": "lib/zrenk.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.797374, 11.835407]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "renk",
+                "type": "activity",
+                "activity": "GBV",
+                "icon": "circleIcon",
+                "popup_img": "lib/zrenk.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.797374, 11.835407]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "renk",
+                "type": "activity",
+                "activity": "RCCE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zrenk.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.797374, 11.835407]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "renk",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zrenk.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.797374, 11.835407]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "renk",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "circleIcon",
+                "popup_img": "lib/zrenk.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.797374, 11.835407]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "renk",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zrenk.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.797374, 11.835407]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "renk",
+                "type": "partner",
+                "partner": "UNICEF",
+                "icon": "circleIcon",
+                "popup_img": "lib/zrenk.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.797374, 11.835407]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "adjumani",
+                "type": "country",
+                "country": "kenya",
+                "icon": "RCIcon",
+                "popup_img": "lib/zadjumani.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[31.790426, 3.375915]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "adjumani",
+                "type": "activity",
+                "activity": "Health",
+                "icon": "RCIcon",
+                "popup_img": "lib/zadjumani.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[31.790426, 3.375915]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "adjumani",
+                "type": "activity",
+                "activity": "WASH",
+                "icon": "RCIcon",
+                "popup_img": "lib/zadjumani.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[31.790426, 3.375915]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "adjumani",
+                "type": "activity",
+                "activity": "GBV",
+                "icon": "RCIcon",
+                "popup_img": "lib/zadjumani.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[31.790426, 3.375915]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "adjumani",
+                "type": "activity",
+                "activity": "RCCE",
+                "icon": "RCIcon",
+                "popup_img": "lib/zadjumani.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[31.790426, 3.375915]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "adjumani",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "RCIcon",
+                "popup_img": "lib/zadjumani.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[31.790426, 3.375915]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "adjumani",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "RCIcon",
+                "popup_img": "lib/zadjumani.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[31.790426, 3.375915]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "adjumani",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "RCIcon",
+                "popup_img": "lib/zadjumani.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[31.790426, 3.375915]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "adjumani",
+                "type": "partner",
+                "partner": "UNICEF",
+                "icon": "RCIcon",
+                "popup_img": "lib/zadjumani.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[31.790426, 3.375915]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "adjumani",
+                "type": "partner",
+                "partner": "IOM",
+                "icon": "RCIcon",
+                "popup_img": "lib/zadjumani.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[31.790426, 3.375915]
+            }
+        },
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "busia",
+                "type": "country",
+                "country": "kenya",
+                "icon": "circleIcon",
+                "popup_img": "lib/zbusia.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.090577, 0.468229]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "busia",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zbusia.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.090577, 0.468229]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "busia",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "circleIcon",
+                "popup_img": "lib/zbusia.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.090577, 0.468229]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "busia",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zbusia.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.090577, 0.468229]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "busia",
+                "type": "partner",
+                "partner": "TMEA",
+                "icon": "circleIcon",
+                "popup_img": "lib/zbusia.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.090577, 0.468229]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "elegu",
+                "type": "country",
+                "country": "kenya",
+                "icon": "circleIcon",
+                "popup_img": "lib/zelegu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.071642, 3.563650]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "elegu",
+                "type": "activity",
+                "activity": "Health",
+                "icon": "circleIcon",
+                "popup_img": "lib/zelegu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.071642, 3.563650]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "elegu",
+                "type": "activity",
+                "activity": "WASH",
+                "icon": "circleIcon",
+                "popup_img": "lib/zelegu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.071642, 3.563650]
+            }
+        },
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "elegu",
+                "type": "activity",
+                "activity": "GBV",
+                "icon": "circleIcon",
+                "popup_img": "lib/zelegu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.071642, 3.563650]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "elegu",
+                "type": "activity",
+                "activity": "RCCE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zelegu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.071642, 3.563650]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "elegu",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zelegu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.071642, 3.563650]
+            }
+        },
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "elegu",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "circleIcon",
+                "popup_img": "lib/zelegu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.071642, 3.563650]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "elegu",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zelegu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.071642, 3.563650]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "elegu",
+                "type": "partner",
+                "partner": "IOM",
+                "icon": "circleIcon",
+                "popup_img": "lib/zelegu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.071642, 3.563650]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "elegu",
+                "type": "partner",
+                "partner": "TMEA",
+                "icon": "circleIcon",
+                "popup_img": "lib/zelegu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.071642, 3.563650]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "malaba",
+                "type": "country",
+                "country": "kenya",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmalaba.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.263055, 0.641313]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "malaba",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmalaba.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.263055, 0.641313]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "malaba",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmalaba.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.263055, 0.641313]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "malaba",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmalaba.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.263055, 0.641313]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "malaba",
+                "type": "partner",
+                "partner": "TMEA",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmalaba.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.263055, 0.641313]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "adjumani",
+                "type": "country",
+                "country": "uganda",
+                "icon": "RCIcon",
+                "popup_img": "lib/zadjumani.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[31.790426, 3.375915]
+            }
+        }, 
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "adjumani",
+                "type": "activity",
+                "activity": "Health",
+                "icon": "RCIcon",
+                "popup_img": "lib/zadjumani.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[31.790426, 3.375915]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "adjumani",
+                "type": "activity",
+                "activity": "WASH",
+                "icon": "RCIcon",
+                "popup_img": "lib/zadjumani.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[31.790426, 3.375915]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "adjumani",
+                "type": "activity",
+                "activity": "GBV",
+                "icon": "RCIcon",
+                "popup_img": "lib/zadjumani.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[31.790426, 3.375915]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "adjumani",
+                "type": "activity",
+                "activity": "RCCE",
+                "icon": "RCIcon",
+                "popup_img": "lib/zadjumani.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[31.790426, 3.375915]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "adjumani",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "RCIcon",
+                "popup_img": "lib/zadjumani.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[31.790426, 3.375915]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "adjumani",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "RCIcon",
+                "popup_img": "lib/zadjumani.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[31.790426, 3.375915]
+            }
+        }, 
+
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "adjumani",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "RCIcon",
+                "popup_img": "lib/zadjumani.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[31.790426, 3.375915]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "adjumani",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "RCIcon",
+                "popup_img": "lib/zadjumani.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[31.790426, 3.375915]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "adjumani",
+                "type": "partner",
+                "partner": "UNICEF",
+                "icon": "RCIcon",
+                "popup_img": "lib/zadjumani.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[31.790426, 3.375915]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "adjumani",
+                "type": "partner",
+                "partner": "IOM",
+                "icon": "RCIcon",
+                "popup_img": "lib/zadjumani.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[31.790426, 3.375915]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "busia",
+                "type": "country",
+                "country": "uganda",
+                "icon": "circleIcon",
+                "popup_img": "lib/zbusia.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.090577, 0.468229]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "busia",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zbusia.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.090577, 0.468229]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "busia",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "circleIcon",
+                "popup_img": "lib/zbusia.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.090577, 0.468229]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "busia",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "circleIcon",
+                "popup_img": "lib/zbusia.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.090577, 0.468229]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "busia",
+                "type": "activity",
+                "activity": "Trade",
+                "icon": "circleIcon",
+                "popup_img": "lib/zbusia.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.090577, 0.468229]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "busia",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zbusia.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.090577, 0.468229]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "busia",
+                "type": "partner",
+                "partner": "TMEA",
+                "icon": "circleIcon",
+                "popup_img": "lib/zbusia.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.090577, 0.468229]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "elegu",
+                "type": "country",
+                "country": "uganda",
+                "icon": "circleIcon",
+                "popup_img": "lib/zelegu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.071642, 3.563650]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "elegu",
+                "type": "activity",
+                "activity": "Health",
+                "icon": "circleIcon",
+                "popup_img": "lib/zelegu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.071642, 3.563650]
+            }
+        }, 
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "elegu",
+                "type": "activity",
+                "activity": "WASH",
+                "icon": "circleIcon",
+                "popup_img": "lib/zelegu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.071642, 3.563650]
+            }
+        }, 
+
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "elegu",
+                "type": "activity",
+                "activity": "GBV",
+                "icon": "circleIcon",
+                "popup_img": "lib/zelegu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.071642, 3.563650]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "elegu",
+                "type": "activity",
+                "activity": "RCCE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zelegu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.071642, 3.563650]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "elegu",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zelegu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.071642, 3.563650]
+            }
+        }, 
+
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "elegu",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "circleIcon",
+                "popup_img": "lib/zelegu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.071642, 3.563650]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "elegu",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "circleIcon",
+                "popup_img": "lib/zelegu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.071642, 3.563650]
+            }
+        }, 
+
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "elegu",
+                "type": "activity",
+                "activity": "Trade",
+                "icon": "circleIcon",
+                "popup_img": "lib/zelegu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.071642, 3.563650]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "elegu",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zelegu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.071642, 3.563650]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "elegu",
+                "type": "partner",
+                "partner": "IOM",
+                "icon": "circleIcon",
+                "popup_img": "lib/zelegu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.071642, 3.563650]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "elegu",
+                "type": "partner",
+                "partner": "TMEA",
+                "icon": "circleIcon",
+                "popup_img": "lib/zelegu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.071642, 3.563650]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "malaba",
+                "type": "country",
+                "country": "uganda",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmalaba.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.263055, 0.641313]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "malaba",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmalaba.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.263055, 0.641313]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "malaba",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmalaba.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.263055, 0.641313]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "malaba",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmalaba.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.263055, 0.641313]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "malaba",
+                "type": "activity",
+                "activity": "Trade",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmalaba.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.263055, 0.641313]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "malaba",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmalaba.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.263055, 0.641313]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "malaba",
+                "type": "partner",
+                "partner": "TMEA",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmalaba.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.263055, 0.641313]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "daadab",
+                "type": "country",
+                "country": "kenya",
+                "icon": "RCIcon",
+                "popup_img": "lib/zdaadab.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.305615, 0.057190]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "daadab",
+                "type": "activity",
+                "activity": "Health",
+                "icon": "RCIcon",
+                "popup_img": "lib/zdaadab.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.305615, 0.057190]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "daadab",
+                "type": "activity",
+                "activity": "WASH",
+                "icon": "RCIcon",
+                "popup_img": "lib/zdaadab.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.305615, 0.057190]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "daadab",
+                "type": "activity",
+                "activity": "GBV",
+                "icon": "RCIcon",
+                "popup_img": "lib/zdaadab.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.305615, 0.057190]
+            }
+        }, 
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "daadab",
+                "type": "activity",
+                "activity": "RCCE",
+                "icon": "RCIcon",
+                "popup_img": "lib/zdaadab.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.305615, 0.057190]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "daadab",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "RCIcon",
+                "popup_img": "lib/zdaadab.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.305615, 0.057190]
+            }
+        }, 
+
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "daadab",
+                "type": "partner",
+                "partner": "UNICEF",
+                "icon": "RCIcon",
+                "popup_img": "lib/zdaadab.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.305615, 0.057190]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "daadab",
+                "type": "partner",
+                "partner": "IOM",
+                "icon": "RCIcon",
+                "popup_img": "lib/zdaadab.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.305615, 0.057190]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "diif",
+                "type": "country",
+                "country": "kenya",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdiif.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.959344, 0.994737]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "diif",
+                "type": "activity",
+                "activity": "Health",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdiif.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.959344, 0.994737]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "diif",
+                "type": "activity",
+                "activity": "WASH",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdiif.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.959344, 0.994737]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "diif",
+                "type": "activity",
+                "activity": "GBV",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdiif.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.959344, 0.994737]
+            }
+        }, 
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "diif",
+                "type": "activity",
+                "activity": "RCCE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdiif.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.959344, 0.994737]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "diif",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdiif.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.959344, 0.994737]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "diif",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdiif.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.959344, 0.994737]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "diif",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdiif.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.959344, 0.994737]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "diif",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdiif.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.959344, 0.994737]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "diif",
+                "type": "partner",
+                "partner": "UNICEF",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdiif.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.959344, 0.994737]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "diif",
+                "type": "partner",
+                "partner": "IOM",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdiif.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.959344, 0.994737]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "garissa",
+                "type": "country",
+                "country": "kenya",
+                "icon": "RCIcon",
+                "popup_img": "lib/zgarissa.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[39.641166, -0.455128]
+            }
+        }, 
+
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "garissa",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "RCIcon",
+                "popup_img": "lib/zgarissa.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[39.641166, -0.455128]
+            }
+        }, 
+
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "garissa",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "RCIcon",
+                "popup_img": "lib/zgarissa.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[39.641166, -0.455128]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "garissa",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "RCIcon",
+                "popup_img": "lib/zgarissa.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[39.641166, -0.455128]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "mandera",
+                "type": "country",
+                "country": "kenya",
+                "icon": "RCIcon",
+                "popup_img": "lib/zmandera.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.857806, 3.939194]
+            }
+        }, 
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "mandera",
+                "type": "activity",
+                "activity": "Health",
+                "icon": "RCIcon",
+                "popup_img": "lib/zmandera.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.857806, 3.939194]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "mandera",
+                "type": "activity",
+                "activity": "WASH",
+                "icon": "RCIcon",
+                "popup_img": "lib/zmandera.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.857806, 3.939194]
+            }
+        }, 
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "mandera",
+                "type": "activity",
+                "activity": "GBV",
+                "icon": "RCIcon",
+                "popup_img": "lib/zmandera.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.857806, 3.939194]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "mandera",
+                "type": "activity",
+                "activity": "RCCE",
+                "icon": "RCIcon",
+                "popup_img": "lib/zmandera.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.857806, 3.939194]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "mandera",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "RCIcon",
+                "popup_img": "lib/zmandera.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.857806, 3.939194]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "mandera",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "RCIcon",
+                "popup_img": "lib/zmandera.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.857806, 3.939194]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "mandera",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "RCIcon",
+                "popup_img": "lib/zmandera.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.857806, 3.939194]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "mandera",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "RCIcon",
+                "popup_img": "lib/zmandera.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.857806, 3.939194]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "mandera",
+                "type": "partner",
+                "partner": "iom",
+                "icon": "RCIcon",
+                "popup_img": "lib/zmandera.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.857806, 3.939194]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "marsabit",
+                "type": "country",
+                "country": "kenya",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmarsabit.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[37.991614, 2.339366]
+            }
+        }, 
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "marsabit",
+                "type": "activity",
+                "activity": "Health",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmarsabit.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[37.991614, 2.339366]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "marsabit",
+                "type": "activity",
+                "activity": "WASH",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmarsabit.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[37.991614, 2.339366]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "marsabit",
+                "type": "activity",
+                "activity": "gbv",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmarsabit.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[37.991614, 2.339366]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "marsabit",
+                "type": "activity",
+                "activity": "RCCE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmarsabit.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[37.991614, 2.339366]
+            }
+        }, 
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "marsabit",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmarsabit.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[37.991614, 2.339366]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "marsabit",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmarsabit.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[37.991614, 2.339366]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "marsabit",
+                "type": "activity",
+                "activity": "Trade",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmarsabit.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[37.991614, 2.339366]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "marsabit",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmarsabit.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[37.991614, 2.339366]
+            }
+        }, 
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "marsabit",
+                "type": "partner",
+                "partner": "IOM",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmarsabit.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[37.991614, 2.339366]
+            }
+        }, 
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "marsabit",
+                "type": "partner",
+                "partner": "TMEA",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmarsabit.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[37.991614, 2.339366]
+            }
+        }, 
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "turkana",
+                "type": "country",
+                "country": "kenya",
+                "icon": "circleIcon",
+                "popup_img": "lib/zturkana.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[35.639530, 3.446768]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "turkana",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zturkana.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[35.639530, 3.446768]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "turkana",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "circleIcon",
+                "popup_img": "lib/zturkana.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[35.639530, 3.446768]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "turkana",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "circleIcon",
+                "popup_img": "lib/zturkana.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[35.639530, 3.446768]
+            }
+        }, 
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "turkana",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zturkana.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[35.639530, 3.446768]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "turkana",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zturkana.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[35.639530, 3.446768]
+            }
+        }, 
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "baidoa",
+                "type": "country",
+                "country": "somalia",
+                "icon": "circleIcon",
+                "popup_img": "lib/zbaidoa.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.644664, 3.121935]
+            }
+        }, 
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "baidoa",
+                "type": "activity",
+                "activity": "Health",
+                "icon": "circleIcon",
+                "popup_img": "lib/zbaidoa.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.644664, 3.121935]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "baidoa",
+                "type": "activity",
+                "activity": "WASH",
+                "icon": "circleIcon",
+                "popup_img": "lib/zbaidoa.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.644664, 3.121935]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "baidoa",
+                "type": "activity",
+                "activity": "GBV",
+                "icon": "circleIcon",
+                "popup_img": "lib/zbaidoa.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.644664, 3.121935]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "baidoa",
+                "type": "activity",
+                "activity": "RCCE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zbaidoa.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.644664, 3.121935]
+            }
+        }, 
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "baidoa",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zbaidoa.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.644664, 3.121935]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "baidoa",
+                "type": "partner",
+                "partner": "IOM",
+                "icon": "circleIcon",
+                "popup_img": "lib/zbaidoa.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.644664, 3.121935]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "belethawa",
+                "type": "country",
+                "country": "somalia",
+                "icon": "circleIcon",
+                "popup_img": "lib/zbelethawa.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.874911, 3.924454]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "belethawa",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zbelethawa.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.874911, 3.924454]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "belethawa",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zbelethawa.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.874911, 3.924454]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "bosasso",
+                "type": "country",
+                "country": "somalia",
+                "icon": "MCIcon",
+                "popup_img": "lib/zbosasso.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[49.180776, 11.282172]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "bosasso",
+                "type": "activity",
+                "activity": "Health",
+                "icon": "MCIcon",
+                "popup_img": "lib/zbosasso.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[49.180776, 11.282172]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "bosasso",
+                "type": "activity",
+                "activity": "WASH",
+                "icon": "MCIcon",
+                "popup_img": "lib/zbosasso.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[49.180776, 11.282172]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "bosasso",
+                "type": "activity",
+                "activity": "GBV",
+                "icon": "MCIcon",
+                "popup_img": "lib/zbosasso.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[49.180776, 11.282172]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "bosasso",
+                "type": "activity",
+                "activity": "RCCE",
+                "icon": "MCIcon",
+                "popup_img": "lib/zbosasso.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[49.180776, 11.282172]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "bosasso",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "MCIcon",
+                "popup_img": "lib/zbosasso.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[49.180776, 11.282172]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "bosasso",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "MCIcon",
+                "popup_img": "lib/zbosasso.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[49.180776, 11.282172]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "bosasso",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "MCIcon",
+                "popup_img": "lib/zbosasso.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[49.180776, 11.282172]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "bosasso",
+                "type": "partner",
+                "partner": "UNICEF",
+                "icon": "MCIcon",
+                "popup_img": "lib/zbosasso.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[49.180776, 11.282172]
+            }
+        }, 
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "bosasso",
+                "type": "partner",
+                "partner": "IOM",
+                "icon": "MCIcon",
+                "popup_img": "lib/zbosasso.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[49.180776, 11.282172]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "dhoblei",
+                "type": "country",
+                "country": "somalia",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdhoblei.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.010596, 0.413374]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "dhoblei",
+                "type": "activity",
+                "activity": "Health",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdhoblei.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.010596, 0.413374]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "dhoblei",
+                "type": "activity",
+                "activity": "WASH",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdhoblei.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.010596, 0.413374]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "dhoblei",
+                "type": "activity",
+                "activity": "GBV",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdhoblei.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.010596, 0.413374]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "dhoblei",
+                "type": "activity",
+                "activity": "RCCE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdhoblei.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.010596, 0.413374]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "dhoblei",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdhoblei.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.010596, 0.413374]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "dhoblei",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdhoblei.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.010596, 0.413374]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "dhoblei",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdhoblei.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.010596, 0.413374]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "dhoblei",
+                "type": "partner",
+                "partner": "IOM",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdhoblei.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.010596, 0.413374]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "diif",
+                "type": "country",
+                "country": "somalia",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdiif.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.964303, 0.994551]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "diif",
+                "type": "activity",
+                "activity": "Health",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdiif.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.964303, 0.994551]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "diif",
+                "type": "activity",
+                "activity": "WASH",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdiif.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.964303, 0.994551]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "diif",
+                "type": "activity",
+                "activity": "GBV",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdiif.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.964303, 0.994551]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "diif",
+                "type": "activity",
+                "activity": "RCCE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdiif.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.964303, 0.994551]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "diif",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdiif.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.964303, 0.994551]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "diif",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdiif.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.964303, 0.994551]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "diif",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdiif.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.964303, 0.994551]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "diif",
+                "type": "partner",
+                "partner": "UNICEF",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdiif.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.964303, 0.994551]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "mogadishu",
+                "type": "country",
+                "country": "somalia",
+                "icon": "StarIcon",
+                "popup_img": "lib/zmogadishu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[45.337671, 2.037124]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "mogadishu",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "StarIcon",
+                "popup_img": "lib/zmogadishu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[45.337671, 2.037124]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "mogadishu",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "StarIcon",
+                "popup_img": "lib/zmogadishu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[45.337671, 2.037124]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "mogadishu",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "StarIcon",
+                "popup_img": "lib/zmogadishu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[45.337671, 2.037124]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "wajale",
+                "type": "country",
+                "country": "somalia",
+                "icon": "circleIcon",
+                "popup_img": "lib/zwajale.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.335718, 9.602048]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "wajale",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zwajale.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.335718, 9.602048]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "wajale",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "circleIcon",
+                "popup_img": "lib/zwajale.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.335718, 9.602048]
+            }
+        }, 
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "wajale",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zwajale.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.335718, 9.602048]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "wajale",
+                "type": "partner",
+                "partner": "TMEA",
+                "icon": "circleIcon",
+                "popup_img": "lib/zwajale.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.335718, 9.602048]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "alisabieh",
+                "type": "country",
+                "country": "djibouti",
+                "icon": "circleIcon",
+                "popup_img": "lib/zalisabieh.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[42.704840, 11.154281]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "alisabieh",
+                "type": "activity",
+                "activity": "Health",
+                "icon": "circleIcon",
+                "popup_img": "lib/zalisabieh.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[42.704840, 11.154281]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "alisabieh",
+                "type": "activity",
+                "activity": "WASH",
+                "icon": "circleIcon",
+                "popup_img": "lib/zalisabieh.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[42.704840, 11.154281]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "alisabieh",
+                "type": "activity",
+                "activity": "GBV",
+                "icon": "circleIcon",
+                "popup_img": "lib/zalisabieh.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[42.704840, 11.154281]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "alisabieh",
+                "type": "activity",
+                "activity": "RCCE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zalisabieh.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[42.704840, 11.154281]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "alisabieh",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zalisabieh.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[42.704840, 11.154281]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "alisabieh",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "circleIcon",
+                "popup_img": "lib/zalisabieh.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[42.704840, 11.154281]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "alisabieh",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zalisabieh.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[42.704840, 11.154281]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "alisabieh",
+                "type": "partner",
+                "partner": "UNICEF",
+                "icon": "circleIcon",
+                "popup_img": "lib/zalisabieh.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[42.704840, 11.154281]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "alisabieh",
+                "type": "partner",
+                "partner": "IOM",
+                "icon": "circleIcon",
+                "popup_img": "lib/zalisabieh.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[42.704840, 11.154281]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "djiboutiport",
+                "type": "country",
+                "country": "djibouti",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdjiboutiport.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.142559, 11.608643]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "djiboutiport",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdjiboutiport.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.142559, 11.608643]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "djiboutiport",
+                "type": "partner",
+                "partner": "TMEA",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdjiboutiport.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.142559, 11.608643]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "dora",
+                "type": "country",
+                "country": "djibouti",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdora.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[42.476356, 12.150212]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "dora",
+                "type": "activity",
+                "activity": "Health",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdora.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.476356, 12.150212]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "dora",
+                "type": "activity",
+                "activity": "WASH",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdora.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.476356, 12.150212]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "dora",
+                "type": "activity",
+                "activity": "GBV",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdora.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.476356, 12.150212]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "dora",
+                "type": "activity",
+                "activity": "RCCE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdora.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.476356, 12.150212]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "dora",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdora.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.476356, 12.150212]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "dora",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdora.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.476356, 12.150212]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "dora",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdora.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.476356, 12.150212]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "dora",
+                "type": "partner",
+                "partner": "UNICEF",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdora.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [42.476356, 12.150212]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "galafi",
+                "type": "country",
+                "country": "djibouti",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalafi.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.837472, 11.717967]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "galafi",
+                "type": "country",
+                "country": "djibouti",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalafi.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.837472, 11.717967]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "galafi",
+                "type": "activity",
+                "activity": "Health",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalafi.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.837472, 11.717967]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "galafi",
+                "type": "activity",
+                "activity": "WASH",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalafi.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.837472, 11.717967]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "galafi",
+                "type": "activity",
+                "activity": "GBV",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalafi.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.837472, 11.717967]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "galafi",
+                "type": "activity",
+                "activity": "RCCE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalafi.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.837472, 11.717967]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "galafi",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalafi.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.837472, 11.717967]
+            }
+        }, 
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "galafi",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalafi.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.837472, 11.717967]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "galafi",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalafi.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.837472, 11.717967]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "galafi",
+                "type": "partner",
+                "partner": "IOM",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalafi.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.837472, 11.717967]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "galafi",
+                "type": "partner",
+                "partner": "TMEA",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalafi.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.837472, 11.717967]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "obock",
+                "type": "country",
+                "country": "djibouti",
+                "icon": "MCIcon",
+                "popup_img": "lib/zobock.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.293760, 11.964294]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "obock",
+                "type": "activity",
+                "activity": "Health",
+                "icon": "MCIcon",
+                "popup_img": "lib/zobock.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.293760, 11.964294]
+            }
+        }, 
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "obock",
+                "type": "activity",
+                "activity": "WASH",
+                "icon": "MCIcon",
+                "popup_img": "lib/zobock.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.293760, 11.964294]
+            }
+        }, 
+
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "obock",
+                "type": "activity",
+                "activity": "GBV",
+                "icon": "MCIcon",
+                "popup_img": "lib/zobock.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.293760, 11.964294]
+            }
+        }, 
+
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "obock",
+                "type": "activity",
+                "activity": "RCCE",
+                "icon": "MCIcon",
+                "popup_img": "lib/zobock.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.293760, 11.964294]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "obock",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "MCIcon",
+                "popup_img": "lib/zobock.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.293760, 11.964294]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "obock",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "MCIcon",
+                "popup_img": "lib/zobock.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.293760, 11.964294]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "obock",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "MCIcon",
+                "popup_img": "lib/zobock.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.293760, 11.964294]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "obock",
+                "type": "partner",
+                "partner": "UNICEF",
+                "icon": "MCIcon",
+                "popup_img": "lib/zobock.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.293760, 11.964294]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Obock (Merkazi)",
+                "type": "country",
+                "country": "djibouti",
+                "icon": "RCIcon",
+                "popup_img": "lib/zobock2.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.287527, 11.964997]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Obock (Merkazi)",
+                "type": "activity",
+                "activity": "Health",
+                "icon": "RCIcon",
+                "popup_img": "lib/zobock2.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.287527, 11.964997]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Obock (Merkazi)",
+                "type": "activity",
+                "activity": "WASH",
+                "icon": "RCIcon",
+                "popup_img": "lib/zobock2.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.287527, 11.964997]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Obock (Merkazi)",
+                "type": "activity",
+                "activity": "GBV",
+                "icon": "RCIcon",
+                "popup_img": "lib/zobock2.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.287527, 11.964997]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "Obock (Merkazi)",
+                "type": "activity",
+                "activity": "RCCE",
+                "icon": "RCIcon",
+                "popup_img": "lib/zobock2.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.287527, 11.964997]
+            }
+        }, 
+
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "Obock (Merkazi)",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "RCIcon",
+                "popup_img": "lib/zobock2.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.287527, 11.964997]
+            }
+        }, 
+
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "Obock (Merkazi)",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "RCIcon",
+                "popup_img": "lib/zobock2.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.287527, 11.964997]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Obock (Merkazi)",
+                "type": "partner",
+                "partner": "UNICEF",
+                "icon": "RCIcon",
+                "popup_img": "lib/zobock2.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.287527, 11.964997]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "gambela",
+                "type": "country",
+                "country": "ethiopia",
+                "icon": "RCIcon",
+                "popup_img": "lib/zgambela.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.591613, 8.248250]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "gambela",
+                "type": "activity",
+                "activity": "Health",
+                "icon": "RCIcon",
+                "popup_img": "lib/zgambela.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.591613, 8.248250]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "gambela",
+                "type": "activity",
+                "activity": "WASH",
+                "icon": "RCIcon",
+                "popup_img": "lib/zgambela.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.591613, 8.248250]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "gambela",
+                "type": "activity",
+                "activity": "GBV",
+                "icon": "RCIcon",
+                "popup_img": "lib/zgambela.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.591613, 8.248250]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "gambela",
+                "type": "activity",
+                "activity": "RCCE",
+                "icon": "RCIcon",
+                "popup_img": "lib/zgambela.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.591613, 8.248250]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "gambela",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "RCIcon",
+                "popup_img": "lib/zgambela.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.591613, 8.248250]
+            }
+        },
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "gambela",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "RCIcon",
+                "popup_img": "lib/zgambela.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.591613, 8.248250]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "gambela",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "RCIcon",
+                "popup_img": "lib/zgambela.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.591613, 8.248250]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "gambela",
+                "type": "partner",
+                "partner": "UNICEF",
+                "icon": "RCIcon",
+                "popup_img": "lib/zgambela.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.591613, 8.248250]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "gambela",
+                "type": "partner",
+                "partner": "IOM",
+                "icon": "RCIcon",
+                "popup_img": "lib/zgambela.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.591613, 8.248250]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "hawli",
+                "type": "country",
+                "country": "ethiopia",
+                "icon": "circleIcon",
+                "popup_img": "lib/zhawli.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.736924, 11.876704]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "hawli",
+                "type": "activity",
+                "activity": "Health",
+                "icon": "circleIcon",
+                "popup_img": "lib/zhawli.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.736924, 11.876704]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "hawli",
+                "type": "activity",
+                "activity": "WASH",
+                "icon": "circleIcon",
+                "popup_img": "lib/zhawli.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.736924, 11.876704]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "hawli",
+                "type": "activity",
+                "activity": "GBV",
+                "icon": "circleIcon",
+                "popup_img": "lib/zhawli.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.736924, 11.876704]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "hawli",
+                "type": "activity",
+                "activity": "RCCE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zhawli.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.736924, 11.876704]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "hawli",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zhawli.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.736924, 11.876704]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "hawli",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "circleIcon",
+                "popup_img": "lib/zhawli.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.736924, 11.876704]
+            }
+        }, 
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "hawli",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zhawli.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.736924, 11.876704]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "hawli",
+                "type": "partner",
+                "partner": "IOM",
+                "icon": "circleIcon",
+                "popup_img": "lib/zhawli.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.736924, 11.876704]
+            }
+        }, 
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "hawli",
+                "type": "partner",
+                "partner": "TMEA",
+                "icon": "circleIcon",
+                "popup_img": "lib/zhawli.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.736924, 11.876704]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "metema",
+                "type": "country",
+                "country": "ethiopia",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmetema.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.152759, 12.958203]
+            }
+        }, 
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "metema",
+                "type": "activity",
+                "activity": "Health",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmetema.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.152759, 12.958203]
+            }
+        }, 
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "metema",
+                "type": "activity",
+                "activity": "WASH",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmetema.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.152759, 12.958203]
+            }
+        }, 
+
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "metema",
+                "type": "activity",
+                "activity": "GBV",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmetema.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.152759, 12.958203]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "metema",
+                "type": "activity",
+                "activity": "RCCE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmetema.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.152759, 12.958203]
+            }
+        }, 
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "metema",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmetema.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.152759, 12.958203]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "metema",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmetema.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.152759, 12.958203]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "metema",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmetema.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.152759, 12.958203]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "metema",
+                "type": "partner",
+                "partner": "IOM",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmetema.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.152759, 12.958203]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "metema",
+                "type": "partner",
+                "partner": "TMEA",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmetema.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.152759, 12.958203]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "moyale",
+                "type": "country",
+                "country": "ethiopia",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmoyale.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[39.052264, 3.530475]
+            }
+        }, 
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "moyale",
+                "type": "activity",
+                "activity": "Health",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmoyale.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[39.052264, 3.530475]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "moyale",
+                "type": "activity",
+                "activity": "WASH",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmoyale.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[39.052264, 3.530475]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "moyale",
+                "type": "activity",
+                "activity": "GBV",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmoyale.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[39.052264, 3.530475]
+            }
+        }, 
+
+           {
+            "type": "Feature",
+            "properties": {
+                "Name": "moyale",
+                "type": "activity",
+                "activity": "RCCE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmoyale.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[39.052264, 3.530475]
+            }
+        }, 
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "moyale",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmoyale.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[39.052264, 3.530475]
+            }
+        }, 
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "moyale",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmoyale.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[39.052264, 3.530475]
+            }
+        }, 
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "moyale",
+                "type": "partner",
+                "partner": "IOM",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmoyale.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[39.052264, 3.530475]
+            }
+        }, 
+
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "moyale",
+                "type": "partner",
+                "partner": "TMEA",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmoyale.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[39.052264, 3.530475]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "semera",
+                "type": "country",
+                "country": "ethiopia",
+                "icon": "MCIcon",
+                "popup_img": "lib/zsemera.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.006512, 11.794918]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "semera",
+                "type": "activity",
+                "activity": "Health",
+                "icon": "MCIcon",
+                "popup_img": "lib/zsemera.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.006512, 11.794918]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "semera",
+                "type": "activity",
+                "activity": "WASH",
+                "icon": "MCIcon",
+                "popup_img": "lib/zsemera.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.006512, 11.794918]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "semera",
+                "type": "activity",
+                "activity": "GBV",
+                "icon": "MCIcon",
+                "popup_img": "lib/zsemera.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.006512, 11.794918]
+            }
+        }, 
+
+           {
+            "type": "Feature",
+            "properties": {
+                "Name": "semera",
+                "type": "activity",
+                "activity": "RCCE",
+                "icon": "MCIcon",
+                "popup_img": "lib/zsemera.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.006512, 11.794918]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "semera",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "MCIcon",
+                "popup_img": "lib/zsemera.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.006512, 11.794918]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "semera",
+                "type": "activity",
+                "activity": "Testing",
+                "icon": "MCIcon",
+                "popup_img": "lib/zsemera.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.006512, 11.794918]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "semera",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "MCIcon",
+                "popup_img": "lib/zsemera.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.006512, 11.794918]
+            }
+        }, 
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "semera",
+                "type": "partner",
+                "partner": "UNICEF",
+                "icon": "MCIcon",
+                "popup_img": "lib/zsemera.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.006512, 11.794918]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "semera",
+                "type": "partner",
+                "partner": "IOM",
+                "icon": "MCIcon",
+                "popup_img": "lib/zsemera.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.006512, 11.794918]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "togwajale",
+                "type": "country",
+                "country": "ethiopia",
+                "icon": "circleIcon",
+                "popup_img": "lib/ztogwajale.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.182245, 9.500747]
+            }
+        }, 
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "togwajale",
+                "type": "activity",
+                "activity": "PPE",
+                "icon": "circleIcon",
+                "popup_img": "lib/ztogwajale.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.182245, 9.500747]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "togwajale",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/ztogwajale.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.182245, 9.500747]
+            }
+        }, 
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "togwajale",
+                "type": "partner",
+                "partner": "IOM",
+                "icon": "circleIcon",
+                "popup_img": "lib/ztogwajale.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.182245, 9.500747]
+            }
+        }, 
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "togwajale",
+                "type": "partner",
+                "partner": "TMEA",
+                "icon": "circleIcon",
+                "popup_img": "lib/ztogwajale.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.182245, 9.500747]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "galabat",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalabat.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.149322, 12.960314]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "galabat",
+                "type": "activity",
+                "activity": "Trade",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalabat.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.149322, 12.960314]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "hamdayet",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "circleIcon",
+                "popup_img": "lib/zhamdayet.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.413976, 15.455983]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "jodah",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "circleIcon",
+                "popup_img": "lib/zjodah.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[33.020113, 12.526098]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "nadapal",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "circleIcon",
+                "popup_img": "lib/znadapal.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.283834, 4.405186]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "nimule",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "circleIcon",
+                "popup_img": "lib/znimule.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.068238, 3.586098]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "nimule",
+                "type": "activity",
+                "activity": "Trade",
+                "icon": "circleIcon",
+                "popup_img": "lib/znimule.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.068238, 3.586098]
+            }
+        },
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "nimule",
+                "type": "activity",
+                "activity": "Facilities",
+                "icon": "circleIcon",
+                "popup_img": "lib/znimule.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.068238, 3.586098]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "renk",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "circleIcon",
+                "popup_img": "lib/zrenk.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.797374, 11.835407]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "renk",
+                "type": "activity",
+                "activity": "Facilities",
+                "icon": "circleIcon",
+                "popup_img": "lib/zrenk.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.797374, 11.835407]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "adjumani",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "RCIcon",
+                "popup_img": "lib/zadjumani.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[31.790426, 3.375915]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "busia",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "circleIcon",
+                "popup_img": "lib/zbusia.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.090577, 0.468229]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "busia",
+                "type": "activity",
+                "activity": "Trade",
+                "icon": "circleIcon",
+                "popup_img": "lib/zbusia.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.090577, 0.468229]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "elegu",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "circleIcon",
+                "popup_img": "lib/zelegu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.071642, 3.563650]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "elegu",
+                "type": "activity",
+                "activity": "Trade",
+                "icon": "circleIcon",
+                "popup_img": "lib/zelegu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[32.071642, 3.563650]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "malaba",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmalaba.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.263055, 0.641313]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "malaba",
+                "type": "activity",
+                "activity": "Trade",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmalaba.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.263055, 0.641313]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "diif",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdiif.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.959344, 0.994737]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "mandera",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmandera.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.857806, 3.939194]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "marsabit",
+                "type": "activity",
+                "activity": "Trade",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmarsabit.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[37.991614, 2.339366]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "turkana",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "circleIcon",
+                "popup_img": "lib/zturkana.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[35.639530, 3.446768]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "dhoblei",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdhoblei.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.010596, 0.413374]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "diif",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdiif.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[40.964303, 0.994551]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "wajale",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "circleIcon",
+                "popup_img": "lib/zwajale.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.335718, 9.602048]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "wajale",
+                "type": "activity",
+                "activity": "Trade",
+                "icon": "circleIcon",
+                "popup_img": "lib/zwajale.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.335718, 9.602048]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "alisabieh",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "circleIcon",
+                "popup_img": "lib/zalisabieh.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[42.704840, 11.154281]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "djiboutiport",
+                "type": "activity",
+                "activity": "Trade",
+                "icon": "circleIcon",
+                "popup_img": "lib/zalisabieh.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.142559, 11.608643]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "dora",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdora.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[42.476356, 12.150212]
+            }
+        },
+
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "galafi",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalafi.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.837472, 11.717967]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "galafi",
+                "type": "activity",
+                "activity": "Trade",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalafi.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.837472, 11.717967]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "gambela",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "RCIcon",
+                "popup_img": "lib/zgambela.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[34.591613, 8.248250]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "hawli",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "circleIcon",
+                "popup_img": "lib/zhawli.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.736924, 11.876704]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "hawli",
+                "type": "activity",
+                "activity": "Trade",
+                "icon": "circleIcon",
+                "popup_img": "lib/zhawli.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[41.736924, 11.876704]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "metema",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmetema.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.152759, 12.958203]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "metema",
+                "type": "activity",
+                "activity": "Trade",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmetema.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[36.152759, 12.958203]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "moyale",
+                "type": "activity",
+                "activity": "Ambulances",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmoyale.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[39.052264, 3.530475]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "moyale",
+                "type": "activity",
+                "activity": "Trade",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmoyale.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[39.052264, 3.530475]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "togwajale",
+                "type": "activity",
+                "activity": "Trade",
+                "icon": "circleIcon",
+                "popup_img": "lib/ztogwajale.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":[43.182245, 9.500747]
+            }
+        }
+
+
+    ]
+
+}

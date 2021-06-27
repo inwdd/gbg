@@ -1,0 +1,548 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "gadarief",
+                "type": "country",
+                "country": "sudan",
+                "icon": "MCIcon",
+                "tooltip_img": "lib/zgadarief.png",
+                "popup_img": "lib/zgadarief.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [14.044225, 35.388162]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "Name": "hamdayet",
+                "type": "country",
+                "country": "sudan",
+                "icon": "circleIcon",
+                "popup_img": "lib/zhamdayet.png",
+                "Description": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [15.455983, 36.413976]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "galabat",
+                "type": "country",
+                "country": "sudan",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalabat.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.960314, 36.149322]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "Name": "jodah",
+                "type": "country",
+                "country": "sudan",
+                "icon": "circleIcon",
+                "popup_img": "lib/zjodah.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.526098, 33.020113]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "Name": "whitenile",
+                "type": "country",
+                "country": "sudan",
+                "icon": "RCIcon",
+                "popup_img": "lib/zwhitenile.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [14.165762, 32.244053]
+            }
+        }, 
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "renk",
+                "type": "country",
+                "country": "southsudan",
+                "icon": "circleIcon",
+                "popup_img": "lib/zrenk.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.835407, 32.797374]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "Name": "maban",
+                "type": "country",
+                "country": "southsudan",
+                "icon": "RCIcon",
+                "popup_img": "lib/zmaban.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.053668, 33.040016]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "Name": "juba",
+                "type": "country",
+                "country": "southsudan",
+                "icon": "StarIcon",
+                "popup_img": "lib/zjuba.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.851911, 31.598537]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "Name": "nadapal",
+                "type": "country",
+                "country": "southsudan",
+                "icon": "circleIcon",
+                "popup_img": "lib/znadapal.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.405186, 34.283834]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "Name": "nimule",
+                "type": "country",
+                "country": "southsudan",
+                "icon": "circleIcon",
+                "popup_img": "lib/znimule.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [3.586098, 32.068238]
+            }
+        }, 
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "elegu",
+                "type": "country",
+                "country": "uganda",
+                "icon": "circleIcon",
+                "popup_img": "lib/zelegu.png",
+                "Description": null
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [3.563650, 32.071642]
+            }
+        }, 
+
+
+
+
+
+
+
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "adjumaniUNOPS",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "RCIcon",
+                "popup_img": "lib/zadjumani.png",
+                "Description": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [3.375915, 31.790426]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "alisabiehUNOPS",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zalisabieh.png",
+                "Description": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.154281, 42.704840]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "baidoaUNOPS",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zbaidoa.png",
+                "Description": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [3.121935, 43.644664]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "belethawaUNOPS",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zbelethawa.png",
+                "Description": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [3.924454, 41.874911]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "bosassoUNOPS",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "MCIcon",
+                "popup_img": "lib/zbosasso.png",
+                "Description": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.282172, 49.180776]
+            }
+        },
+
+          {
+            "type": "Feature",
+            "properties": {
+                "Name": "busiaUNOPS",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zbusia.png",
+                "Description": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0.468229, 34.090577]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "dhobleiUNOPS",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdhoblei.png",
+                "Description": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0.413374, 41.010596]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "diifUNOPS",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdiif.png",
+                "Description": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0.994737, 40.959344]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "diif2UNOPS",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdiif2.png",
+                "Description": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0.994551, 40.964303]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "doraUNOPS",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zdora.png",
+                "Description": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.150212, 42.476356]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "eleguUNOPS",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zelegu.png",
+                "Description": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [3.563650, 32.071642]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "galabatUNOPS",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalabat.png",
+                "Description": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.960314, 36.149322]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "galafiUNOPS",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zgalafi.png",
+                "Description": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.717967, 41.837472]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "gambelaUNOPS",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "RCIcon",
+                "popup_img": "lib/zgambela.png",
+                "Description": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.248250, 34.591613]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "garissaUNOPS",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "RCIcon",
+                "popup_img": "lib/zgarissa.png",
+                "Description": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.455128, 39.641166]
+            }
+        },
+
+         {
+            "type": "Feature",
+            "properties": {
+                "Name": "hamdayetUNOPS",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zhamdayet.png",
+                "Description": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [15.455983, 36.413976]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "hawliUNOPS",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zhawli.png",
+                "Description": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.876704, 41.736924]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "jodahUNOPS",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zjodah.png",
+                "Description": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.526098, 33.020113]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "jubaUNOPS",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "StarIcon",
+                "popup_img": "lib/zjuba.png",
+                "Description": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.851911, 31.598537]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "mabanUNOPS",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "RCIcon",
+                "popup_img": "lib/zmaban.png",
+                "Description": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.053668, 33.040016]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "malabaUNOPS",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmalaba.png",
+                "Description": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0.641313, 34.263055]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "manderaUNOPS",
+                "type": "partner",
+                "partner": "UNOPS",
+                "icon": "circleIcon",
+                "popup_img": "lib/zmandera.png",
+                "Description": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [3.939194, 41.857806]
+            }
+        }
+
+
+
+
+
+
+
+
+
+
+    ]
+
+}
